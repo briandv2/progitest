@@ -1,0 +1,18 @@
+[
+  {
+    "ContainingType": "TestProgi.Controllers.CalculatePriceController",
+    "Method": "Post",
+    "RelativePath": "CalculatePrice/Post",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "calculatePriceDTO",
+        "Type": "Data.Entities.CalculatePriceDTO",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  }
+]

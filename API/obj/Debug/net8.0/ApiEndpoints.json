@@ -1,0 +1,18 @@
+[
+  {
+    "ContainingType": "API.Controllers.CalculatePriceController",
+    "Method": "Calculate",
+    "RelativePath": "api/CalculatePrice",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "priceRequestDto",
+        "Type": "Core.Dto.CalculatePriceRequestDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  }
+]
